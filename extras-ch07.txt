@@ -13,4 +13,11 @@
 
 ![](bio-raskin.md){.include}
 
+## Η περιπτωση του Blackarch
+![](Blackarch.md){.unix}
+
+## Σύντομη βιογραφία του serge edelma
+![](serge-edelma.md){.unix}
+
+
 ## Βιβλιογραφία
